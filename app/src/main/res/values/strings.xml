@@ -6,9 +6,9 @@
     <string name="price_per_hour">£%1$.2f / per hour</string>
 
     <!-- top bar titles -->
-    <string name="top_bar_home_title">App Title</string>
-    <string name="top_bar_bookings_title">Bookings</string>
-    <string name="top_bar_checkout_title">Checkout</string>
+    <string name="top_bar_home_title">KMI E-Mart</string>
+    <string name="top_bar_bookings_title">My Bookings</string>
+    <string name="top_bar_checkout_title">Book Consultation</string>
     <string name="top_bar_settings_title">Settings</string>
     <string name="top_bar_service_details_title">Details</string>
 
@@ -18,14 +18,14 @@
     <string name="bottom_bar_nav_item_settings_title">Settings</string>
 
     <!-- onboarding screen -->
-    <string name="page_1_title">Page 1 Title</string>
-    <string name="page_2_title">Page 2 Title</string>
-    <string name="page_3_title">Page 3 Title</string>
-    <string name="page_1_description">Page 1 Description</string>
-    <string name="page_2_description">Page 2 Description</string>
-    <string name="page_3_description">Page 3 Description</string>
+    <string name="page_1_title">Smart IT Solutions</string>
+    <string name="page_2_title">Book Expert Consultations</string>
+    <string name="page_3_title">Stay Ahead of the Curve</string>
+    <string name="page_1_description">Access expert cybersecurity audits, cloud architecture, and digital transformation strategies from one unified platform.</string>
+    <string name="page_2_description">Schedule sessions with certified IT professionals. From initial audits to full-scale deployments, we have you covered.</string>
+    <string name="page_3_description">Explore our knowledge base with the latest insights on cybersecurity trends, cloud innovations, and business optimization.</string>
     <string name="next_button_title">Next</string>
-    <string name="start_button_title">Start</string>
+    <string name="start_button_title">Get Started</string>
     <string name="skip_button_title">Skip</string>
 
     <!-- home screen -->
@@ -44,7 +44,7 @@
     <string name="button_confirm_booking_text">Confirm Booking</string>
 
     <!-- bookings screen -->
-    <string name="bookings_state_empty_primary_text">You have no bookings yet</string>
+    <string name="bookings_state_empty_primary_text">No bookings yet</string>
     <string name="booking_number">Booking #%1$s</string>
     <string name="booking_customer">Customer: %1$s %2$s</string>
 
@@ -56,7 +56,7 @@
     <string name="settings_screen_company_label">Company</string>
     <string name="settings_screen_version_label">Version</string>
     <string name="settings_screen_customer_support_label">Customer Support</string>
-    <string name="company_name">Company Name</string>
+    <string name="company_name">KMI E MART LTD</string>
     <string name="app_version">1.0.0</string>
-    <string name="customer_support_link">https://website.org/</string>
+    <string name="customer_support_link">https://kmieemarrt.uk</string>
 </resources>
